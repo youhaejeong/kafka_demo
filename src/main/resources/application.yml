@@ -1,4 +1,3 @@
-
 spring:
-  appliocation:
-    name: "demo"
+  application:
+    name: "demo" 
